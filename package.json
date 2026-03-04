@@ -6,7 +6,7 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-icons": "^3.5.0",
-    "react-scripts": "2.1.8"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -24,6 +24,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "fsevents": "^1.2.7"
+    "fsevents": "^1.2.13"
   }
 }
